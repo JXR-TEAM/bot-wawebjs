@@ -1,0 +1,5 @@
+.env
+.wwebjs_auth
+package-lock.json
+node_modules
+system/cmd/owner/*
